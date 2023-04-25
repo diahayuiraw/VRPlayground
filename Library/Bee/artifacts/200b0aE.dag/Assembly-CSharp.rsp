@@ -371,6 +371,11 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 "Assets/Classroom/Scripts/CharacterControl.cs"
 "Assets/Classroom/Scripts/ClockAnim.cs"
+"Assets/HandAnimateController.cs"
+"Assets/LobbyController.cs"
+"Assets/RobotController.cs"
+"Assets/RobotController1.cs"
+"Assets/RotateDiamond.cs"
 -langversion:9.0
 
 /deterministic
